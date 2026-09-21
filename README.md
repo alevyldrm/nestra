@@ -2,7 +2,7 @@
 
 NESTRA, modern modüler yaşam alanları sunan kurgusal bir marka için geliştirilmiş web projesidir.
 
-Proje; dinamik model sayfaları, scroll tabanlı etkileşimler, teklif formu ve içerik yönetimi sağlayan özel bir admin panelinden oluşur.
+Proje; dinamik model sayfaları, scroll tabanlı etkileşimler, teklif formu ve içerik yönetimi sağlayan özel bir admin panelinden oluşuyor.
 
 ## Canlı Demo
 
